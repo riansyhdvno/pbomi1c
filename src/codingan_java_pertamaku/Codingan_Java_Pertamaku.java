@@ -16,7 +16,7 @@ public class Codingan_Java_Pertamaku {
     public static void main(String[] args) {
         System.out.println("Hello World ! ");
         System.out.println("Riansyah Divano");
-        System.out.println("Manajemen Informatika 1.C");
+        System.out.println("Manajemen Informatika");
     }
     
 }
